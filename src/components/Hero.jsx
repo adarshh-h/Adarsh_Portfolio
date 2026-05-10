@@ -47,7 +47,7 @@ const Hero = () => {
             </motion.h2>
             <motion.div className="flex items-center gap-2 text-gray-400" initial={{opacity: 0}} animate={{opacity: 1}} transition={{delay: 0.4}}>
               <MapPin size={16} className="text-green-400" />
-              <span className="text-xs sm:text-sm font-mulish">Based in New Delhi, India</span>
+              <span className="text-xs sm:text-sm font-mulish">Based in Bengaluru, India</span>
             </motion.div>
           </div>
         </motion.div>
