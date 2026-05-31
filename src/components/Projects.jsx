@@ -33,7 +33,7 @@ const projects = [
       "Advanced Search / Filtering / Categorization",
     ],
     images: [Library1, Library2, Library3],
-    WebLink: "https://hnbgu-library-portal-alpha.vercel.app/",
+    WebLink: "https://hnbgu-library.vercel.app/",
     GitLink: "https://github.com/adarshh-h/HNBGU-Library-Portal.git",
     technologies: [
       { imgSrc: ReactJs, bgClass: "bg-blue-400/30", borderClass: "border-blue-300", shadowClass: "hover:shadow-[0_0_5px_3px_rgba(59,130,246,0.5)]" },
